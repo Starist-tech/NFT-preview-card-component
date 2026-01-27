@@ -1,4 +1,4 @@
-The site is live at https://starist-tech.github.io/NFT-preview-card-component/
+The site is live at https://7amzter.github.io/NFT-preview-card-component/
 
 # Frontend Mentor - NFT preview card component
 
